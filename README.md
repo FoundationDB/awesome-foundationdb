@@ -29,12 +29,18 @@ Official bindings:
 - [C](https://apple.github.io/foundationdb/api-c.html)
   - No tutorial yet :(
 
-Community:
+Community (varying levels of production-readiness):
 
 - [Rust](https://github.com/bluejekyll/foundationdb-rs) (@bluejekyll)
 - [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) (@Doxense)
 - [NodeJS](https://www.npmjs.com/package/foundationdb) (@josephg)
   - [Example repo](https://github.com/bbonnin/foundationdb-examples) (@bbonnin)
+- [PHP](https://github.com/viest/PHP-FoundationDB) (@viest)
+- [Clojure](https://github.com/vedang/clj_fdb) (@vedang)
+- [Clojure](https://github.com/tirkarthi/clj-foundationdb) (@tirkarthi)
+- [Clojure](https://github.com/alex-dixon/clj-foundationdb) (@alex-dixon)
+- [Julia](https://github.com/tanmaykm/FoundationDB.jl) (@tanmaykm)
+- [Python asyncio](https://github.com/amirouche/found) (@amirouche)
 
 ## Layers
 
@@ -45,3 +51,9 @@ Experimental/Proof of Concept:
   - [simpledoc.py](https://github.com/AydinSakar/python-layers/blob/master/lib/simpledoc.py) (missing from main repo)
 - [Simple object store](https://fabianlindfors.se/blog/building-an-object-store-with-foundation-db/) (@Fabianlindfors)
 - [JanusGraph adapter](https://github.com/twilmes/janusgraph/tree/foundationdb-storage) (@twilmes)
+- [Python NBD server](https://github.com/dividuum/fdb-nbd) (@dividuum)
+- [Java NBD server](https://github.com/spullara/nbd) (@spullara)
+
+## Operations
+
+- [Terraform deployment PoC](https://github.com/bitgn/fdb-cloud-test) (@bitgn)
