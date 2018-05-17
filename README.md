@@ -45,6 +45,3 @@ Experimental/Proof of Concept:
   - [simpledoc.py](https://github.com/AydinSakar/python-layers/blob/master/lib/simpledoc.py) (missing from main repo)
 - [Simple object store](https://fabianlindfors.se/blog/building-an-object-store-with-foundation-db/) (@Fabianlindfors)
 - [JanusGraph adapter](https://github.com/twilmes/janusgraph/tree/foundationdb-storage) (@twilmes)
-
-## Ops
-
