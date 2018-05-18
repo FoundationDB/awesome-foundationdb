@@ -58,3 +58,10 @@ Experimental/Proof of Concept:
 
 - [Terraform deployment PoC](https://github.com/bitgn/fdb-cloud-test) (@bitgn)
 - [Database benchmark that includes FDB](https://github.com/pingcap/go-ycsb/) (@pingcap)
+
+## Production Experience
+
+- [Snowflake](https://www.snowflake.net/how-foundationdb-powers-snowflake-metadata-forward/) - data warehouse for the cloud
+- [Wavefront](https://www.wavefront.com/wavefront-foundationdb-open-source-project/) - cloud monitoring and analytics by VMWare
+- [SkuVault](https://abdullin.com/sku-vault/foundationdb-layers/) - online warehouse management system
+
