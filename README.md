@@ -58,6 +58,7 @@ Experimental/Proof of Concept:
 
 - [Terraform deployment PoC](https://github.com/bitgn/fdb-cloud-test) (@bitgn)
 - [Database benchmark that includes FDB](https://github.com/pingcap/go-ycsb/) (@pingcap)
+- [Prometheus exporter](https://github.com/leoluk/fdb_exporter) (@leoluk)
 
 ## Production Experience
 
