@@ -61,6 +61,10 @@ Experimental/Proof of Concept:
 - [Database benchmark that includes FDB](https://github.com/pingcap/go-ycsb/) (@pingcap)
 - [Prometheus exporter](https://github.com/leoluk/fdb_exporter) (@leoluk)
 
+## Technical
+
+- [FoundationDB's high contention allocator](https://www.activesphere.com/blog/2018/08/05/high-contention-allocator) (activesphere.com)
+
 ## Production Experience
 
 - [Snowflake](https://www.snowflake.net/how-foundationdb-powers-snowflake-metadata-forward/) - data warehouse for the cloud
