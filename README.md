@@ -41,6 +41,7 @@ Community (varying levels of production-readiness):
 - [Clojure](https://github.com/alex-dixon/clj-foundationdb) (@alex-dixon)
 - [Julia](https://github.com/tanmaykm/FoundationDB.jl) (@tanmaykm)
 - [Python asyncio](https://github.com/amirouche/found) (@amirouche)
+- [Haskell](https://github.com/crclark/foundationdb-haskell) (@crclark)
 
 ## Layers
 
