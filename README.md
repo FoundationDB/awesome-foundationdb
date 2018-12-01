@@ -55,6 +55,10 @@ Experimental/Proof of Concept:
 - [Java NBD server](https://github.com/spullara/nbd) (@spullara)
 - [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900)
 
+Production:
+
+- [FoundationDB document layer](https://foundationdb.github.io/fdb-document-layer)
+
 ## Operations
 
 - [Terraform deployment PoC](https://github.com/bitgn/fdb-cloud-test) (@bitgn)
