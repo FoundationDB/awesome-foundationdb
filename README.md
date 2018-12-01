@@ -55,7 +55,9 @@ Experimental/Proof of Concept:
 - [Python NBD server](https://github.com/dividuum/fdb-nbd) (@dividuum)
 - [Java NBD server](https://github.com/spullara/nbd) (@spullara)
 - [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900)
-- [OpenTick](https://github.com/opentradesolutions/opentick)
+- [OpenTick](https://github.com/opentradesolutions/opentick) (@opentradesolutions)
+- [STORED document layer](https://github.com/capturetechnologies/stored) (@capturetechnologies)
+- [Nomure graph database](https://github.com/OkamiIO/Nomure) (@OkamiIO)
 
 Production:
 
