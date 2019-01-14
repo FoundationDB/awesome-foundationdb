@@ -62,6 +62,7 @@ Experimental/Proof of Concept:
 Production:
 
 - [FoundationDB document layer](https://foundationdb.github.io/fdb-document-layer)
+- [FoundationDB record layer](https://www.github.com/foundationdb/fdb-record-layer)
 
 ## Operations
 
