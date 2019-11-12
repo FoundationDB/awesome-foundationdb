@@ -29,7 +29,7 @@ Official bindings:
 - [C](https://apple.github.io/foundationdb/api-c.html)
   - No tutorial yet :(
 
-Community (varying levels of production-readiness):
+Community bindings (varying levels of production-readiness):
 
 - [Rust](https://github.com/bluejekyll/foundationdb-rs) (@bluejekyll)
 - [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) (@Doxense)
@@ -42,6 +42,10 @@ Community (varying levels of production-readiness):
 - [Julia](https://github.com/tanmaykm/FoundationDB.jl) (@tanmaykm)
 - [Python asyncio](https://github.com/amirouche/found) (@amirouche)
 - [Haskell](https://github.com/crclark/foundationdb-haskell) (@crclark)
+- [TypeScript](https://github.com/openland/foundationdb) (@openland)
+- [Elixer](https://github.com/ananthakumaran/fdb) (@ananthakumaran)
+- [Swift](https://github.com/kirilltitov/FDBSwift) (@kirilltitov)
+- [Erlang](https://github.com/cloudant-labs/couchdb-erlfdb) (@cloudant-labs)
 
 ## Layers
 
@@ -58,6 +62,9 @@ Experimental/Proof of Concept:
 - [OpenTick](https://github.com/opentradesolutions/opentick) (@opentradesolutions)
 - [STORED document layer](https://github.com/capturetechnologies/stored) (@capturetechnologies)
 - [Nomure graph database](https://github.com/OkamiIO/Nomure) (@OkamiIO)
+- [Lucene layer](https://github.com/AydinSakar/lucene-layer)
+- [Zookeeper layer](https://github.com/pH14/fdb-zk) (@pH14)
+- [Redis protocol FDB Gateway](https://github.com/ryanworl/fdb-gateway) (@ryanworl)
 
 Production:
 
@@ -69,6 +76,7 @@ Production:
 - [Terraform deployment PoC](https://github.com/bitgn/fdb-cloud-test) (@bitgn)
 - [Database benchmark that includes FDB](https://github.com/pingcap/go-ycsb/) (@pingcap)
 - [Prometheus exporter](https://github.com/leoluk/fdb_exporter) (@leoluk)
+- [Wavefront FDB Tailer](https://github.com/wavefrontHQ/wavefront-fdb-tailer) (@wavefrontHQ)
 
 ## Technical
 
