@@ -84,7 +84,7 @@ Production:
 
 ## Production Experience
 
-- [Snowflake](https://www.snowflake.net/how-foundationdb-powers-snowflake-metadata-forward/) - data warehouse for the cloud
+- [Snowflake](https://www.snowflake.com/how-foundationdb-powers-snowflake-metadata-forward/) - data warehouse for the cloud
 - [Wavefront](https://www.wavefront.com/wavefront-foundationdb-open-source-project/) - cloud monitoring and analytics by VMWare
 - [SkuVault](https://abdullin.com/sku-vault/foundationdb-layers/) - online warehouse management system
 
