@@ -46,6 +46,7 @@ Community bindings (varying levels of production-readiness):
 - [Elixer](https://github.com/ananthakumaran/fdb) (@ananthakumaran)
 - [Swift](https://github.com/kirilltitov/FDBSwift) (@kirilltitov)
 - [Erlang](https://github.com/cloudant-labs/couchdb-erlfdb) (@cloudant-labs)
+- [Scala](https://github.com/pwliwanow/foundationdb4s) (@pwliwanow)
 
 ## Layers
 
