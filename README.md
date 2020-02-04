@@ -59,6 +59,7 @@ Experimental/Proof of Concept:
 - [JanusGraph adapter](https://github.com/twilmes/janusgraph/tree/foundationdb-storage) (@twilmes)
 - [Python NBD server](https://github.com/dividuum/fdb-nbd) (@dividuum)
 - [Java NBD server](https://github.com/spullara/nbd) (@spullara)
+- [FoundationDB Block Device](https://github.com/meln1k/foundationdb-block-device) (@meln1k)
 - [Hashicorp Vault](https://github.com/hashicorp/vault/pull/4900)
 - [OpenTick](https://github.com/opentradesolutions/opentick) (@opentradesolutions)
 - [STORED document layer](https://github.com/capturetechnologies/stored) (@capturetechnologies)
