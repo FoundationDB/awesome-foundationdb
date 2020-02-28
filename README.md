@@ -67,6 +67,7 @@ Experimental/Proof of Concept:
 - [Lucene layer](https://github.com/AydinSakar/lucene-layer)
 - [Zookeeper layer](https://github.com/pH14/fdb-zk) (@pH14)
 - [Redis protocol FDB Gateway](https://github.com/ryanworl/fdb-gateway) (@ryanworl)
+- [Copernic: versioned structured data, with change-request mechanic](https://github.com/amirouche/copernic) (@amirouche)
 
 Production:
 
@@ -89,4 +90,3 @@ Production:
 - [Snowflake](https://www.snowflake.com/how-foundationdb-powers-snowflake-metadata-forward/) - data warehouse for the cloud
 - [Wavefront](https://www.wavefront.com/wavefront-foundationdb-open-source-project/) - cloud monitoring and analytics by VMWare
 - [SkuVault](https://abdullin.com/sku-vault/foundationdb-layers/) - online warehouse management system
-
