@@ -45,7 +45,7 @@ Community bindings (varying levels of production-readiness):
 - [TypeScript](https://github.com/openland/foundationdb) (@openland)
 - [Elixer](https://github.com/ananthakumaran/fdb) (@ananthakumaran)
 - [Swift](https://github.com/kirilltitov/FDBSwift) (@kirilltitov)
-- [Erlang](https://github.com/cloudant-labs/couchdb-erlfdb) (@cloudant-labs)
+- [Erlang](https://github.com/apache/couchdb-erlfdb) (@apache)
 - [Scala](https://github.com/pwliwanow/foundationdb4s) (@pwliwanow)
 
 ## Layers
