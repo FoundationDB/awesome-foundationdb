@@ -43,7 +43,7 @@ Community bindings (varying levels of production-readiness):
 - [Python asyncio](https://github.com/amirouche/found) (@amirouche)
 - [Haskell](https://github.com/crclark/foundationdb-haskell) (@crclark)
 - [TypeScript](https://github.com/openland/foundationdb) (@openland)
-- [Elixer](https://github.com/ananthakumaran/fdb) (@ananthakumaran)
+- [Elixir](https://github.com/ananthakumaran/fdb) (@ananthakumaran)
 - [Swift](https://github.com/kirilltitov/FDBSwift) (@kirilltitov)
 - [Erlang](https://github.com/apache/couchdb-erlfdb) (@apache)
 - [Scala](https://github.com/pwliwanow/foundationdb4s) (@pwliwanow)
