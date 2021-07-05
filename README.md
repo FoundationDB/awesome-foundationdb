@@ -31,7 +31,7 @@ Official bindings:
 
 Community bindings (varying levels of production-readiness):
 
-- [Rust](https://github.com/bluejekyll/foundationdb-rs) (@bluejekyll)
+- [Rust](https://github.com/Clikengo/foundationdb-rs) (@Clikengo)
 - [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) (@Doxense)
 - [NodeJS](https://www.npmjs.com/package/foundationdb) (@josephg)
   - [Example repo](https://github.com/bbonnin/foundationdb-examples) (@bbonnin)
@@ -68,6 +68,8 @@ Experimental/Proof of Concept:
 - [Zookeeper layer](https://github.com/pH14/fdb-zk) (@pH14)
 - [Redis protocol FDB Gateway](https://github.com/ryanworl/fdb-gateway) (@ryanworl)
 - [Copernic: versioned structured data, with change-request mechanic](https://github.com/amirouche/copernic) (@amirouche)
+- [ETCD layer](https://github.com/PierreZ/fdb-etcd) (@PierreZ)
+- [Record-Store](https://github.com/PierreZ/record-store) (@PierreZ)
 
 Production:
 
@@ -83,7 +85,34 @@ Production:
 
 ## Technical
 
+### Papers
+
+- [Cloudkit: structured storage for mobile applications (2018)](https://www.vldb.org/pvldb/vol11/p540-shraer.pdf)
+- [Towards a General Framework for ML-based Self-tuning Databases (2020)](https://arxiv.org/abs/2011.07921)
+- [QuiCK: A Queuing System in CloudKit (2021)](https://www.foundationdb.org/files/QuiCK.pdf)
+- [FoundationDB: A Distributed, Unbundled, Transactional Key Value Store (2021)](https://www.foundationdb.org/files/fdb-paper.pdf)
+
+### Blogposts
+
 - [FoundationDB's high contention allocator](https://www.activesphere.com/blog/2018/08/05/high-contention-allocator) (activesphere.com)
+- [BUGGIFY](https://transactional.blog/simulation/buggify.html) (transactional.blog)
+- [Crafting row keys in FoundationDB](https://pierrezemb.fr/posts/crafting-keys-in-fdb/) (pierrezemb.fr)
+
+### Talks
+
+- ["Testing Distributed Systems w/ Deterministic Simulation" by Will Wilson (2014)](https://www.youtube.com/watch?v=4fFDFbi3toc)
+- [Playlist FoundationDB Summit 2018](https://www.youtube.com/playlist?list=PLbzoR-pLrL6q7uYN-94-p_-Q3hyAmpI7o)
+- [Playlist FoundationDB Summit 2019](https://www.youtube.com/playlist?list=PLbzoR-pLrL6oWYrC950yAhbLk8FRRB_Bt)
+- [FoundationDB or: How I Learned to Stop Worrying and Trust the Database (Markus Pilman, Snowflake) (2020)](https://www.youtube.com/watch?v=OJb8A6h9jQQ)
+- [Novel Design Choices in Apache CouchDB (Adam Kocoloski) (2021)](https://www.youtube.com/watch?v=FCs7Dz8hgjQ)
+- [SIGMOD 568 QuiCK: a Queuing System in CloudKit (2021)](https://www.youtube.com/watch?v=I9mNENkZT90)
+- [SIGMOD 538 FoundationDB: A Distributed Unbundled Transactional KeyValue Store (2021)](https://www.youtube.com/watch?v=st0VjQdpZL4)
+
+### Podcasts
+
+- [Data Engineering Podcast episode 80: Using FoundationDB As The Bedrock For Your Distributed Systems (2019)](https://www.dataengineeringpodcast.com/foundationdb-distributed-systems-episode-80/)
+- [Softwar Engineering Daily: FoundationDB with Ryan Worl (2019)](https://softwareengineeringdaily.com/2019/07/01/foundationdb-with-ryan-worl/)
+- [Big data Hebdo 93: FoundationDB (2019 🇫🇷)](https://www.spreaker.com/user/vhe74/episode-93-foundation-db)
 
 ## Production Experience
 
