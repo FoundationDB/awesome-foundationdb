@@ -94,14 +94,21 @@ Production:
 
 ### Blogposts
 
+- [FoundationDB Layers (2018)](https://abdullin.com/sku-vault/foundationdb-layers/) (abdullin.com)
 - [FoundationDB's high contention allocator](https://www.activesphere.com/blog/2018/08/05/high-contention-allocator) (activesphere.com)
 - [BUGGIFY](https://transactional.blog/simulation/buggify.html) (transactional.blog)
+- [Building a FoundationDB Cluster: Roles, Classes, and Processes](https://nikita.melkozerov.dev/posts/2019/06/building-a-foundationdb-cluster-roles-classes-and-processes/) (nikita.melkozerov.dev)
+- [Time Series and FoundationDB: Millions of writes/s and 10x compression in under 2,000 lines of Go](https://github.com/richardartoul/tsdb-layer/blob/master/README.md) (github.com/richardartoul)
+- [FoundationDB Record Layer](https://smalldatum.blogspot.com/2019/09/foundationdb-record-layer.html) (smalldatum.blogspot.com)
+- [Notes about FoundationDB](https://pierrezemb.fr/posts/notes-about-foundationdb/) (pierrezemb.fr)
 - [Crafting row keys in FoundationDB](https://pierrezemb.fr/posts/crafting-keys-in-fdb/) (pierrezemb.fr)
+- [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html) (www.micahlerner.com)
 
 ### Talks
 
 - ["Testing Distributed Systems w/ Deterministic Simulation" by Will Wilson (2014)](https://www.youtube.com/watch?v=4fFDFbi3toc)
 - [Playlist FoundationDB Summit 2018](https://www.youtube.com/playlist?list=PLbzoR-pLrL6q7uYN-94-p_-Q3hyAmpI7o)
+- [Solving Everyday Data Problems with FoundationDB](https://www.youtube.com/watch?v=f6Ni30Q4Tg)
 - [Playlist FoundationDB Summit 2019](https://www.youtube.com/playlist?list=PLbzoR-pLrL6oWYrC950yAhbLk8FRRB_Bt)
 - [FoundationDB or: How I Learned to Stop Worrying and Trust the Database (Markus Pilman, Snowflake) (2020)](https://www.youtube.com/watch?v=OJb8A6h9jQQ)
 - [Novel Design Choices in Apache CouchDB (Adam Kocoloski) (2021)](https://www.youtube.com/watch?v=FCs7Dz8hgjQ)
