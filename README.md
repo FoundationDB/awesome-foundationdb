@@ -103,6 +103,7 @@ Production:
 - [Notes about FoundationDB](https://pierrezemb.fr/posts/notes-about-foundationdb/) (pierrezemb.fr)
 - [Crafting row keys in FoundationDB](https://pierrezemb.fr/posts/crafting-keys-in-fdb/) (pierrezemb.fr)
 - [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html) (www.micahlerner.com)
+- [Reading Group. FoundationDB: A Distributed Unbundled Transactional Key Value Store](http://charap.co/reading-group-foundationdb-a-distributed-unbundled-transactional-key-value-store/) (charap.co) 
 
 ### Talks
 
@@ -114,6 +115,7 @@ Production:
 - [Novel Design Choices in Apache CouchDB (Adam Kocoloski) (2021)](https://www.youtube.com/watch?v=FCs7Dz8hgjQ)
 - [SIGMOD 568 QuiCK: a Queuing System in CloudKit (2021)](https://www.youtube.com/watch?v=I9mNENkZT90)
 - [SIGMOD 538 FoundationDB: A Distributed Unbundled Transactional KeyValue Store (2021)](https://www.youtube.com/watch?v=st0VjQdpZL4)
+- [Paper #65. FoundationDB: A Distributed Unbundled Transactional Key Value Store (2021)](https://www.youtube.com/watch?v=A6Ob1lebIzQ)
 
 ### Podcasts
 
