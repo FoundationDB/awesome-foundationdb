@@ -116,6 +116,7 @@ Production:
 - [SIGMOD 568 QuiCK: a Queuing System in CloudKit (2021)](https://www.youtube.com/watch?v=I9mNENkZT90)
 - [SIGMOD 538 FoundationDB: A Distributed Unbundled Transactional KeyValue Store (2021)](https://www.youtube.com/watch?v=st0VjQdpZL4)
 - [Paper #65. FoundationDB: A Distributed Unbundled Transactional Key Value Store (2021)](https://www.youtube.com/watch?v=A6Ob1lebIzQ)
+- [Markus Pilman (Snowflake) - FoundationDB at Snowflake: Architecture and Internals (2021)](https://www.youtube.com/watch?v=4yH4r8ZCt8M)
 
 ### Podcasts
 
