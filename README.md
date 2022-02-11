@@ -103,7 +103,8 @@ Production:
 - [Notes about FoundationDB](https://pierrezemb.fr/posts/notes-about-foundationdb/) (pierrezemb.fr)
 - [Crafting row keys in FoundationDB](https://pierrezemb.fr/posts/crafting-keys-in-fdb/) (pierrezemb.fr)
 - [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html) (www.micahlerner.com)
-- [Reading Group. FoundationDB: A Distributed Unbundled Transactional Key Value Store](http://charap.co/reading-group-foundationdb-a-distributed-unbundled-transactional-key-value-store/) (charap.co) 
+- [Reading Group. FoundationDB: A Distributed Unbundled Transactional Key Value Store](http://charap.co/reading-group-foundationdb-a-distributed-unbundled-transactional-key-value-store/) (charap.co)
+- [Migrating Snowflake’s Metadata with No Downtime](https://medium.com/snowflake/migrating-snowflakes-metadata-with-no-downtime-ca90604b677c) (medium.com)
 
 ### Talks
 
