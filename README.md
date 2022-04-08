@@ -32,6 +32,7 @@ Official bindings:
 Community bindings (varying levels of production-readiness):
 
 - [Rust](https://github.com/Clikengo/foundationdb-rs) (@Clikengo)
+- [Tokio/Rust](https://fdb-rs.github.io/) (@rajivr)
 - [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) (@Doxense)
 - [NodeJS](https://www.npmjs.com/package/foundationdb) (@josephg)
   - [Example repo](https://github.com/bbonnin/foundationdb-examples) (@bbonnin)
@@ -105,6 +106,7 @@ Production:
 - [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html) (www.micahlerner.com)
 - [Reading Group. FoundationDB: A Distributed Unbundled Transactional Key Value Store](http://charap.co/reading-group-foundationdb-a-distributed-unbundled-transactional-key-value-store/) (charap.co)
 - [Migrating Snowflake’s Metadata with No Downtime](https://medium.com/snowflake/migrating-snowflakes-metadata-with-no-downtime-ca90604b677c) (medium.com)
+- [Bigblue’s multi-model database on FoundationDB](https://medium.com/bigblue-engineering/bigblues-multi-model-database-on-foundationdb-5c54b8d61942) (medium.com)
 
 ### Talks
 
