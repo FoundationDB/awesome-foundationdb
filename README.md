@@ -40,6 +40,7 @@ Community bindings (varying levels of production-readiness):
 - [Clojure](https://github.com/vedang/clj_fdb) (@vedang)
 - [Clojure](https://github.com/tirkarthi/clj-foundationdb) (@tirkarthi)
 - [Clojure](https://github.com/alex-dixon/clj-foundationdb) (@alex-dixon)
+- [Clojure Record-Layer](https://github.com/exoscale/vinyl) (@exoscale)
 - [Julia](https://github.com/tanmaykm/FoundationDB.jl) (@tanmaykm)
 - [Python asyncio](https://github.com/amirouche/found) (@amirouche)
 - [Haskell](https://github.com/crclark/foundationdb-haskell) (@crclark)
