@@ -31,7 +31,7 @@ Official bindings:
 
 Community bindings (varying levels of production-readiness):
 
-- [Rust](https://github.com/Clikengo/foundationdb-rs) (@Clikengo)
+- [Rust](https://github.com/foundationdb-rs/foundationdb-rs) (@fdb-rs's community)
 - [Tokio/Rust](https://fdb-rs.github.io/) (@rajivr)
 - [C#/.NET](https://github.com/Doxense/foundationdb-dotnet-client) (@Doxense)
 - [NodeJS](https://www.npmjs.com/package/foundationdb) (@josephg)
