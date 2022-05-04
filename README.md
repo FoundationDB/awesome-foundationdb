@@ -105,7 +105,9 @@ Production:
 - [Crafting row keys in FoundationDB](https://pierrezemb.fr/posts/crafting-keys-in-fdb/) (pierrezemb.fr)
 - [FoundationDB: A Distributed Unbundled Transactional Key Value Store](https://www.micahlerner.com/2021/06/12/foundationdb-a-distributed-unbundled-transactional-key-value-store.html) (www.micahlerner.com)
 - [Reading Group. FoundationDB: A Distributed Unbundled Transactional Key Value Store](http://charap.co/reading-group-foundationdb-a-distributed-unbundled-transactional-key-value-store/) (charap.co)
-- [Migrating Snowflake’s Metadata with No Downtime](https://medium.com/snowflake/migrating-snowflakes-metadata-with-no-downtime-ca90604b677c) (medium.com)
+- Migrating Snowflake’s Metadata series:
+  - [Part 1: Migrating Snowflake’s Metadata Part with No Downtime](https://medium.com/snowflake/migrating-snowflakes-metadata-with-no-downtime-ca90604b677c) (medium.com)
+  - [Part 2: Migrating Snowflake’s Metadata with FDB Replication Service](https://medium.com/snowflake/part-2-migrating-snowflakes-metadata-with-fdb-replication-service-c3a3bee79904) (medium.com)
 - [Bigblue’s multi-model database on FoundationDB](https://medium.com/bigblue-engineering/bigblues-multi-model-database-on-foundationdb-5c54b8d61942) (medium.com)
 
 ### Talks
