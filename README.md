@@ -123,6 +123,7 @@ Production:
 - [SIGMOD 538 FoundationDB: A Distributed Unbundled Transactional KeyValue Store (2021)](https://www.youtube.com/watch?v=st0VjQdpZL4)
 - [Paper #65. FoundationDB: A Distributed Unbundled Transactional Key Value Store (2021)](https://www.youtube.com/watch?v=A6Ob1lebIzQ)
 - [Markus Pilman (Snowflake) - FoundationDB at Snowflake: Architecture and Internals (2021)](https://www.youtube.com/watch?v=4yH4r8ZCt8M)
+- [Operating FoundationDB on Kubernetes - Johannes M. Scheuermann (DoK Day EU 2022)](https://www.youtube.com/watch?v=Kf3kquvuing)
 
 ### Podcasts
 
