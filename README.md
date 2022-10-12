@@ -110,6 +110,8 @@ Production:
   - [Part 1: Migrating Snowflake’s Metadata Part with No Downtime](https://medium.com/snowflake/migrating-snowflakes-metadata-with-no-downtime-ca90604b677c) (medium.com)
   - [Part 2: Migrating Snowflake’s Metadata with FDB Replication Service](https://medium.com/snowflake/part-2-migrating-snowflakes-metadata-with-fdb-replication-service-c3a3bee79904) (medium.com)
 - [Bigblue’s multi-model database on FoundationDB](https://medium.com/bigblue-engineering/bigblues-multi-model-database-on-foundationdb-5c54b8d61942) (medium.com)
+- [Skipping the boring parts of building a database using FoundationDB](https://blog.tigrisdata.com/building-a-database-using-foundationdb)
+- [How we built our data layer on FoundationDB](https://blog.tigrisdata.com/data-layer-foundationdb)
 
 ### Talks
 
