@@ -128,6 +128,7 @@ Production:
 - [Markus Pilman (Snowflake) - FoundationDB at Snowflake: Architecture and Internals (2021)](https://www.youtube.com/watch?v=4yH4r8ZCt8M)
 - [Operating FoundationDB on Kubernetes - Johannes M. Scheuermann (DoK Day EU 2022)](https://www.youtube.com/watch?v=Kf3kquvuing)
 - [How we cook Foundation DB / Daniil Gitelson (OW Service) (HighLoad++ Armenia 2022)](https://www.youtube.com/watch?v=n3DJwT21qno)
+- [Rhino: Low-latency Key-value Database in Rust (2024)](https://youtu.be/9B_v6CDFf-Y?si=ypzI76ASj0aTQElU) ([Github repo](https://github.com/laplab/rhino))
 
 ### Podcasts
 
