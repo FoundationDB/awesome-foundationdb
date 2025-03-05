@@ -78,6 +78,7 @@ Production:
 
 - [FoundationDB document layer](https://foundationdb.github.io/fdb-document-layer)
 - [FoundationDB record layer](https://www.github.com/foundationdb/fdb-record-layer)
+- [DeepSeek Fire-Flyer File System (3FS)](https://github.com/deepseek-ai/3FS)
 
 ## Operations
 
@@ -129,6 +130,13 @@ Production:
 - [Operating FoundationDB on Kubernetes - Johannes M. Scheuermann (DoK Day EU 2022)](https://www.youtube.com/watch?v=Kf3kquvuing)
 - [How we cook Foundation DB / Daniil Gitelson (OW Service) (HighLoad++ Armenia 2022)](https://www.youtube.com/watch?v=n3DJwT21qno)
 - [Rhino: Low-latency Key-value Database in Rust (2024)](https://youtu.be/9B_v6CDFf-Y?si=ypzI76ASj0aTQElU) ([Github repo](https://github.com/laplab/rhino))
+- [How Tigris Leverages FoundationDB for Global Metadata Storage (May 15th 2024)](https://youtu.be/QubKAR1Wl4o?si=GjmxgcwQcsr5Z3e-)
+- [Encryption in FoundationDB - FDB Meetup (Snowflake, May 15th 2024)](https://youtu.be/4K96Z-8mt_0?si=JjynG20zCVhKT-Es)
+- [FoundationDB as an Identity Graph database: Adobe’s Journey - FDB Meetup (June 20th 2024)](https://youtu.be/oYiFTBO67uU?si=QMVCy3bo2T8hp_32)
+- [FoundationDB on Kubernetes - FDB Meetup (2024)](https://youtu.be/w7VkFn1aqbY?si=p8Rg-lUyEjDwubyJ)
+- [Spark connector for FoundationDB - FDB Meetup (Adobe, 2024)](https://youtu.be/_JdD_EYU-GE?si=ubop0C3GBPc1JJOH)
+- [Control Plane for FoundationDB - FDB Meetup (Snowflake, 2024)](https://youtu.be/JrPahzbLYGs?si=alMv76eoHWLbV4CB)
+- [Managing FoundationDB Infrastructure - FDB Meetup (Adobe, 2024)](https://youtu.be/smJMAr7re7U?si=KrBFI543YzTUumFu)
 
 ### Podcasts
 
