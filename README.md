@@ -137,6 +137,8 @@ Production:
 - [Spark connector for FoundationDB - FDB Meetup (Adobe, 2024)](https://youtu.be/_JdD_EYU-GE?si=ubop0C3GBPc1JJOH)
 - [Control Plane for FoundationDB - FDB Meetup (Snowflake, 2024)](https://youtu.be/JrPahzbLYGs?si=alMv76eoHWLbV4CB)
 - [Managing FoundationDB Infrastructure - FDB Meetup (Adobe, 2024)](https://youtu.be/smJMAr7re7U?si=KrBFI543YzTUumFu)
+- [Self Healing FoundationDB From Gray Failures - FDB Meetup (Adobe, 2025)](https://youtu.be/zonHByBBb4M?si=qyacVPM2WvdIqsRC)
+- [RocksDB Storage Engine for FoundationDB - FDB Meetup (Adobe, 2025)](https://youtu.be/LibOOXxeraE?si=CnLBX76Zq2gB_Q24)
 
 ### Podcasts
 
