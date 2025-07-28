@@ -139,6 +139,7 @@ Production:
 - [Managing FoundationDB Infrastructure - FDB Meetup (Adobe, 2024)](https://youtu.be/smJMAr7re7U?si=KrBFI543YzTUumFu)
 - [Self Healing FoundationDB From Gray Failures - FDB Meetup (Adobe, 2025)](https://youtu.be/zonHByBBb4M?si=qyacVPM2WvdIqsRC)
 - [RocksDB Storage Engine for FoundationDB - FDB Meetup (Adobe, 2025)](https://youtu.be/LibOOXxeraE?si=CnLBX76Zq2gB_Q24)
+- [FoundationDB, the Black Knight - Peter Boros, Tigris Data](https://www.youtube.com/watch?v=XNTdIE0eWxs)
 
 ### Podcasts
 
