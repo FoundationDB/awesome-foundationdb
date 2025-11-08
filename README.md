@@ -146,6 +146,7 @@ Production:
 - [Data Engineering Podcast episode 80: Using FoundationDB As The Bedrock For Your Distributed Systems (2019)](https://www.dataengineeringpodcast.com/foundationdb-distributed-systems-episode-80/)
 - [Softwar Engineering Daily: FoundationDB with Ryan Worl (2019)](https://softwareengineeringdaily.com/2019/07/01/foundationdb-with-ryan-worl/)
 - [Big data Hebdo 93: FoundationDB (2019 🇫🇷)](https://www.spreaker.com/user/vhe74/episode-93-foundation-db)
+- [FoundationDB: from idea to Apple acquisition (Antithesis BugBash Podcast)](https://www.youtube.com/watch?v=C1nZzQqcPZw)
 
 ### Miscellaneous
 
