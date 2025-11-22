@@ -73,6 +73,7 @@ Experimental/Proof of Concept:
 - [ETCD layer](https://github.com/PierreZ/fdb-etcd) (@PierreZ)
 - [Record-Store](https://github.com/PierreZ/record-store) (@PierreZ)
 - [Query Language](https://github.com/janderland/fql) (@janderland)
+- [Golang layer](https://github.com/romannikov/fdb-go-layer-plugin) (@romannikov)
 
 Production:
 
